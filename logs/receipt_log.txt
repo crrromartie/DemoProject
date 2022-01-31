@@ -1,0 +1,8 @@
+2022-01-27T18:57:42,340 INFO  ru.clevertec.demo.service.proxy.ProductServiceProxy - getProducts args=[]
+2022-01-27T18:57:42,343 INFO  ru.clevertec.demo.service.proxy.ProductServiceProxy - getProducts result=[{"name":"Milk","price":5},{"name":"Juice","price":7},{"name":"Salt","price":1}]
+2022-01-27T19:18:09,001 ERROR ru.clevertec.demo.service.impl.ProductServiceImpl - getProducts args=[]
+2022-01-27T19:18:09,004 ERROR ru.clevertec.demo.service.impl.ProductServiceImpl - getProducts result=[{"name":"Milk","price":5},{"name":"Juice","price":7},{"name":"Salt","price":1}]
+2022-01-27T19:18:09,005 ERROR ru.clevertec.demo.service.impl.ProductServiceImpl - getProducts args=[]
+2022-01-27T19:18:09,005 ERROR ru.clevertec.demo.service.impl.ProductServiceImpl - getProducts result=[{"name":"Milk","price":5},{"name":"Juice","price":7},{"name":"Salt","price":1}]
+2022-01-27T19:18:43,881 ERROR ru.clevertec.demo.service.impl.ProductServiceImpl - getProducts args=[]
+2022-01-27T19:18:43,886 ERROR ru.clevertec.demo.service.impl.ProductServiceImpl - getProducts result=[{"name":"Milk","price":5},{"name":"Juice","price":7},{"name":"Salt","price":1}]
